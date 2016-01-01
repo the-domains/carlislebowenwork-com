@@ -1,7 +1,7 @@
 name: carlislebowenwork.com
 favicon: null
-layout_spectrum: 0.914245359832421
-typography_spectrum: 0.786957235308364
+layout_spectrum: 0.91425
+typography_spectrum: 0.83759
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3162758133839816
-  lightness: 0.40141499624587595
-  saturation: 0.10727390553802252
-  rhythmicContrast: 0.24361581169068813
+    - '#000000'
+    - '#fffffd'
+    - '#888574'
+    - '#364653'
+    - '#67241e'
+  brandStrength: 0.25
+  lightness: 0.5625
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
