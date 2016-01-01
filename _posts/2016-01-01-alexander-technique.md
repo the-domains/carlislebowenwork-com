@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-01T04:39:10.182Z'
-dateModified: '2016-01-01T04:38:53.900Z'
+datePublished: '2016-01-01T05:43:13.218Z'
+dateModified: '2016-01-01T05:38:15.923Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-01-alexander-technique.md
