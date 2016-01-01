@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T01:09:57.431Z'
-dateModified: '2016-01-01T01:09:28.084Z'
+datePublished: '2016-01-01T01:13:06.679Z'
+dateModified: '2016-01-01T01:12:52.750Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-01-alexander-technique.md
@@ -40,7 +40,7 @@ in and learn how to take the tension out of the things that you do every day.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0fa278-afcb-4113-90d0-5484448dba83.jpg)
 
 Joe
-Schaefer, a AT teacher, has spent the last 3 years in a
+Schaefer, an AT teacher, has spent the last 3 years in a
 1600-hour teacher training course in Baltimore, Maryland.
 
 For the past 5 years he has studied the
