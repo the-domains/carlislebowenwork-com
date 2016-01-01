@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[carlislebowenwork.com]]></title>
-        <description><![CDATA[carlislebowenwork.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Carlisle Bowenwork]]></title>
+        <description><![CDATA[Carlisle Bowenwork]]></description>
+        <link>https://thegrid.ai/carlislebowenwork-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 00:16:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 23:30:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carlislebowenwork-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f948e937-a2fd-4c94-a7a6-da4571fc8d53.jpg">]]></description>
+            <link>https://thegrid.ai/carlislebowenwork-com/27d663f4-5e95-444d-b4d9-7631ddd94cec/index.html</link>
+            <guid isPermaLink="false">27d663f4-5e95-444d-b4d9-7631ddd94cec</guid>
+            <pubDate>Fri, 01 Jan 2016 23:30:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bowenwork for Pain
 Reduction and Improved Quality of Life]]></title>
             <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ba09a83622bb2e7adfd597af3d3bf081b19975f.jpg"></article>]]></description>
-            <link>undefinedbowenwork-for-pain-reduction-and-improved-quality-of-life/index.html</link>
+            <link>https://thegrid.ai/carlislebowenwork-com/bowenwork-for-pain-reduction-and-improved-quality-of-life/index.html</link>
             <guid isPermaLink="false">fae91650-18f2-4273-a53b-d187437d840c</guid>
             <pubDate>Fri, 01 Jan 2016 00:16:45 GMT</pubDate>
         </item>
