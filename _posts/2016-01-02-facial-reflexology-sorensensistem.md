@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T02:13:22.471Z'
-dateModified: '2016-01-02T02:13:05.959Z'
+datePublished: '2016-01-02T02:32:25.211Z'
+dateModified: '2016-01-02T02:32:20.003Z'
 title: Facial Reflexology Sorensensistem
 author: []
+sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
-published: true
 url: facial-reflexology-sorensensistem/index.html
 _type: Blurb
 
@@ -39,3 +39,19 @@ applied regardless of other treatments that may be in progress.
 
 It will help you to
 feel better with less muscle tension plus have a more radiant complexion.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d44fa6-469d-445c-b251-634b7e6c13e3.jpg)
+
+Mary
+Alexis has practiced within the field of occupational therapy since 1999 in various
+settings with individuals across the lifespan with complex medical
+histories.
+
+Mary enjoys helping those she
+serves
+
+to reach independence in all facets of their
+lives using a client-centered approach. Over the past three years, she has been
+driven to personally explore the integration of complementary and alternative
+treatment modalities (CAM) not only for her own self-care, but also to
+implement during treatment with those she serves within the scope of her
+practice.
