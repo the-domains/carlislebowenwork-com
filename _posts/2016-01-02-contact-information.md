@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T02:51:55.495Z'
-dateModified: '2016-01-02T02:51:40.596Z'
+datePublished: '2016-01-02T03:22:10.697Z'
+dateModified: '2016-01-02T03:19:12.730Z'
 title: Contact Information
 author: []
+sourcePath: _posts/2016-01-02-contact-information.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-contact-information.md
-published: true
 url: contact-information/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Contact Information
