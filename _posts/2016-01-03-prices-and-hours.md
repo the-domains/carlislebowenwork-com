@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T23:23:37.604Z'
-dateModified: '2016-01-03T23:20:19.822Z'
+datePublished: '2016-01-03T23:28:27.967Z'
+dateModified: '2016-01-03T23:28:01.774Z'
 title: Prices and Hours
 author: []
+sourcePath: _posts/2016-01-03-prices-and-hours.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-prices-and-hours.md
-published: true
 url: prices-and-hours/index.html
 _type: WebPage
 
@@ -31,6 +31,6 @@ _type: WebPage
 **Facial Reflexology,** $60.00/session
 
 **Therapuetic Massage,** $70.00/hour
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04588b14-6869-47fa-8f23-ba0a6742cd76.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2f6b234-6b87-498e-90c0-813ad57252a9.jpg)
 
 Hours are by appointment, more or less. There is usually staff in the office Monday through Friday, 9:00am to 5:00pm. We are open several evenings a week, and most Saturdays. When we are open, we can often take walk in appointments. It's usually a good idea to call and ask. **717-386-8279**
