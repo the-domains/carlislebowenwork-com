@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T23:49:03.673Z'
-dateModified: '2016-01-03T23:48:20.811Z'
+datePublished: '2016-01-03T23:52:06.236Z'
+dateModified: '2016-01-03T23:51:50.024Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -25,13 +25,13 @@ _type: WebPage
 # Alexander Technique
 
 The Alexander Technique (AT) teaches you how to unlearn harmful habits of movement through thinking and choice.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88ce702-a4f3-4998-ae5d-1cd6b5746368.jpg)
 
 For over 100 years AT has helped people rethink and reshape their movement.
 
 Whether you are an actor, musician, dentist, or athlete, AT is a great tool to help find, explore, and discover freer and easier ways to move.
 
 Come in and learn how to take the tension out of the things that you do every day.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88ce702-a4f3-4998-ae5d-1cd6b5746368.jpg)
 
 Joe Schaefer, a soon-to-be-certified AT teacher, has spent the last 3 years in a 1600-hour teacher training course in Baltimore, Maryland.
 
