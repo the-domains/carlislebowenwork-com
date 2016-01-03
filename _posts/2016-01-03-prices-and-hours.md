@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T23:20:19.822Z'
-dateModified: '2016-01-03T23:19:57.779Z'
+datePublished: '2016-01-03T23:23:37.604Z'
+dateModified: '2016-01-03T23:20:19.822Z'
 title: Prices and Hours
 author: []
 authors: []
