@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T22:53:21.663Z'
-dateModified: '2016-01-03T22:52:48.404Z'
+datePublished: '2016-01-03T23:23:37.708Z'
+dateModified: '2016-01-03T23:22:53.459Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
