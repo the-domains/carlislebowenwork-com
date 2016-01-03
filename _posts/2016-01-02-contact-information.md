@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-03T19:42:30.930Z'
-dateModified: '2016-01-03T19:41:12.939Z'
+datePublished: '2016-01-03T20:06:10.868Z'
+dateModified: '2016-01-03T20:05:23.321Z'
 title: Contact Information
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
