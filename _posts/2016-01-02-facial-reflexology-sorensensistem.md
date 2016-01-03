@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-03T19:46:49.376Z'
-dateModified: '2016-01-03T19:46:14.610Z'
+datePublished: '2016-01-03T20:06:10.951Z'
+dateModified: '2016-01-03T20:05:31.002Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
