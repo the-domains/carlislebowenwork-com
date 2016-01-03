@@ -1,0 +1,74 @@
+---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-03T23:32:11.323Z'
+dateModified: '2016-01-03T23:31:58.700Z'
+title: "Bowenwork\_"
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-01-03-bowenwork.md
+published: true
+url: bowenwork/index.html
+_type: WebPage
+
+---
+# Bowenwork 
+
+**Pain
+Reduction and Improved Quality of Life**
+
+The
+benefits of deep tissue massage and similar modalities are well-known for pain
+and stress reduction, but there is another form of therapy that offers a subtle
+yet highly effective alternative to the typical massage session. Bowenwork was
+introduced to the United States twenty years ago and stands on its own in the
+field of bodywork. Bowen is the only modality that combines both physical and
+energetic elements to pinpoint stress patterns held in the body. A Bowen
+session is not a massage. Clients, if they prefer, can remain fully clothed.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ae77699-bd8d-4974-8c64-0ca63e64e0f5.jpg)
+
+The
+Bowen Technique, originated by Australian native Tom Bowen in the 1950s, is
+based on an approach that aims to restore harmony of the autonomic nervous
+system that is responsible for 80 percent of the body's functions. Health and
+well-being can suffer when the nervous system is in overdrive from stress; this
+state of prolonged fight or flight can manifest in numerous ways including
+insomnia, migraines, chronic anxiety, persistent pain and digestive distress.
+Healing cannot happen until the parasympathetic nervous system kicks in, the
+part that enables the body to rest, digest and repair. The heart of Bowenwork
+lies in the body's ability to heal itself with gentle influence on the nervous
+system.
+
+Prompting
+the nervous system to respond, Bowen practitioners focus on observing fascia,
+widespread connective tissue that envelops every part of the body---from the most
+superficial muscles to the deepest layers comprising organs, bones and nerves.
+It is through this connective tissue that a practitioner can decode the body's
+stress patterns. A practitioner will spend time feeling and seeing patterns of
+tension before applying a few gentle moves. Then will allow the body to remain
+still for a few moments before continuing with the client and assess changes
+and responses. Sometimes there will be a change in leg length or a subtle
+change in the fascia itself. That will tell the practitioner how to proceed.
+People of all ages can receive the benefits of Bowen, and sessions can be tailored
+to individual needs; clients who cannot lie flat on a massage table can have
+treatments in the comfort of a chair.
+
+Bowenwork
+practitioners see clients with a vast range of health complaints, the most
+common being both acute and chronic pain. Bowen's effect on long-standing
+issues can be profound, and results are typically seen within one to three
+weeks. Migraines, PTSD, menopausal symptoms, fibromyalgia and infant colic are
+just a few conditions that respond positively to treatments. Bowenwork also promotes
+recovery after illness, trauma or surgery. 
+
+�����m�Z�X�
