@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T19:35:33.840Z'
-dateModified: '2016-01-03T19:34:39.746Z'
+datePublished: '2016-01-03T19:42:42.125Z'
+dateModified: '2016-01-03T19:41:27.949Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: facial-reflexology-sorensensistem/index.html
-_type: WebPage
+_type: Article
 
 ---
 ****
