@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T19:35:33.894Z'
-dateModified: '2016-01-03T19:34:59.488Z'
+datePublished: '2016-01-03T19:42:30.930Z'
+dateModified: '2016-01-03T19:41:12.939Z'
 title: Contact Information
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: contact-information/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Contact Information
