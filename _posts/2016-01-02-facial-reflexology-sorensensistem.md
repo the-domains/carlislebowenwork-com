@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T22:22:41.842Z'
-dateModified: '2016-01-03T22:14:58.233Z'
+datePublished: '2016-01-03T22:47:13.624Z'
+dateModified: '2016-01-03T22:46:56.353Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
@@ -29,7 +29,7 @@ _type: WebPage
 Facial
 Reflexology Sorensensistem(tm) uses touch stimulation of the muscles, zones and
 reflex points on the face to restore energy balance throughout the body.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee1b4a25-f212-4e03-8ee4-258a8d89cff2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5055747f-90bc-4f36-8efe-473788d0a029.jpg)
 
 It helps to support the regulation of blood,
 hormones, lymph, and boosts your immune system. 
@@ -44,7 +44,7 @@ Mary
 Alexis has practiced within the field of occupational therapy since 1999 in various
 settings with individuals across the lifespan with complex medical
 histories.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/271e87a5-b0a0-4bfd-a5c6-af289c857b02.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ee8b7fe-697c-40e5-afbd-a4ebe7b5f425.jpg)
 
 Mary enjoys helping those she
 serves to reach independence in all facets of their
