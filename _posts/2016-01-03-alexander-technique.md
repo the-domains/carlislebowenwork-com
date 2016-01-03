@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T23:37:38.051Z'
-dateModified: '2016-01-03T23:36:26.500Z'
+datePublished: '2016-01-03T23:49:03.673Z'
+dateModified: '2016-01-03T23:48:20.811Z'
 title: Alexander Technique
 author: []
+sourcePath: _posts/2016-01-03-alexander-technique.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-alexander-technique.md
-published: true
 url: alexander-technique/index.html
 _type: WebPage
 
@@ -25,7 +25,7 @@ _type: WebPage
 # Alexander Technique
 
 The Alexander Technique (AT) teaches you how to unlearn harmful habits of movement through thinking and choice.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e0178f-a578-48bb-bd27-01b32cc3fd0b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88ce702-a4f3-4998-ae5d-1cd6b5746368.jpg)
 
 For over 100 years AT has helped people rethink and reshape their movement.
 
