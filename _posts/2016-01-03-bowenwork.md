@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T23:37:37.998Z'
-dateModified: '2016-01-03T23:32:11.323Z'
+datePublished: '2016-01-03T23:42:10.752Z'
+dateModified: '2016-01-03T23:41:50.138Z'
 title: "Bowenwork\_"
 author: []
+sourcePath: _posts/2016-01-03-bowenwork.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-bowenwork.md
-published: true
 url: bowenwork/index.html
 _type: WebPage
 
@@ -69,6 +69,4 @@ common being both acute and chronic pain. Bowen's effect on long-standing
 issues can be profound, and results are typically seen within one to three
 weeks. Migraines, PTSD, menopausal symptoms, fibromyalgia and infant colic are
 just a few conditions that respond positively to treatments. Bowenwork also promotes
-recovery after illness, trauma or surgery. 
-
-�����m�Z�X�
+recovery after illness, trauma or surgery.
