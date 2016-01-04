@@ -6,24 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T22:34:38.784Z'
-dateModified: '2016-01-04T22:34:16.516Z'
+datePublished: '2016-01-04T22:38:24.806Z'
+dateModified: '2016-01-04T22:38:22.020Z'
 title: Carlisle Bowenwork
 author: []
+sourcePath: _posts/2016-01-04-carlisle-bowenwork.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-carlisle-bowenwork.md
-published: true
 url: carlisle-bowenwork/index.html
 _type: Article
 
 ---
 # Carlisle Bowenwork
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72bd9404-84aa-4bf1-b140-e07c163548b9.jpg)
 
 **Center for Wholistic Health and Wellness**
 
