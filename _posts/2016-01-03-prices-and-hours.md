@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T04:51:21.462Z'
-dateModified: '2016-01-04T04:51:02.140Z'
+datePublished: '2016-01-04T14:54:49.641Z'
+dateModified: '2016-01-04T14:54:25.582Z'
 title: Services and Hours
 author: []
 sourcePath: _posts/2016-01-03-prices-and-hours.md
@@ -24,13 +24,13 @@ _type: WebPage
 ---
 # Services and Hours
 
-**Alexander Techniqu -** $70/Lesson
+**Alexander Technique -** $70/Lesson
 
 **Bowenwork - **$70/Adults, $20/Children
 
 **Facial Reflexology -** $60/Session
 
-**Therapuetic Massage -** $70/Hour
+**Therapeutic Massage -** $70/Hour
 
 Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and additional evening hours available upon request. Walk-in appointments are welcome, when staff is on hand, but calling ahead to confirm is suggested.
 
