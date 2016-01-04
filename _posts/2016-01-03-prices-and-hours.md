@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T04:19:40.959Z'
-dateModified: '2016-01-04T04:19:14.200Z'
+datePublished: '2016-01-04T04:20:43.749Z'
+dateModified: '2016-01-04T04:20:31.749Z'
 title: Services and Hours
 author: []
 sourcePath: _posts/2016-01-03-prices-and-hours.md
@@ -26,7 +26,7 @@ _type: WebPage
 
 **Alexander Techniqu -** $70/Lesson
 
-**Bowenwork - **$70/Adults, $20/children
+**Bowenwork - **$70/Adults, $20/Children
 
 **Facial Reflexology -** $60/Session
 
