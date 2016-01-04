@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T22:38:24.806Z'
-dateModified: '2016-01-04T22:38:22.020Z'
+datePublished: '2016-01-04T22:48:23.018Z'
+dateModified: '2016-01-04T22:38:43.944Z'
 title: Carlisle Bowenwork
 author: []
 sourcePath: _posts/2016-01-04-carlisle-bowenwork.md
@@ -27,3 +27,4 @@ _type: Article
 **Center for Wholistic Health and Wellness**
 
 Carlisle Bowenwork is truly unique, and a destination for people from as far as Maryland, West Virginia, and New York, who are looking for alternatives to maintaining their health.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8206b1c-dcd6-49c3-93bd-f1053e7296b9.jpg)
