@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T04:17:32.025Z'
-dateModified: '2016-01-04T04:17:04.308Z'
+datePublished: '2016-01-04T04:55:06.697Z'
+dateModified: '2016-01-04T04:52:53.857Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -32,3 +32,7 @@ Whether you are an actor, musician, dentist, or athlete, AT is a great tool to h
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/270c2692-7cf6-4dce-8942-00caf9dabfdc.jpg)
 
 Joe Schaefer has been studying the Alexander Technique for the past 5 years. He is AmSAT-Certified, training in Baltimore's AT Mid-Atlantic teacher training program under Nancy Romita and Wendy Salkind. In addition to this, he has worked with Robert Bedford. Individual or group lessons are available as Joe has given workshops at local universities for actors and musicians.
+
+717-386-8279
+
+nbittinger@comcast.net
