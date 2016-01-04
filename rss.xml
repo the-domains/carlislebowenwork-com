@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Meet our Staff]]></title>
         <description><![CDATA[Meet our Staff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carlislebowenwork-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 22:34:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 22:38:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carlislebowenwork-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Carlisle Bowenwork]]></title>
-            <description><![CDATA[<article><h1>Carlisle Bowenwork</h1><p>Center for Wholistic Health and Wellness</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72bd9404-84aa-4bf1-b140-e07c163548b9.jpg"></article>]]></description>
-            <link>undefinedcarlisle-bowenwork/index.html</link>
+            <description><![CDATA[<article><h1>Carlisle Bowenwork</h1><p>Center for Wholistic Health and Wellness</p></article>]]></description>
+            <link>https://thegrid.ai/carlislebowenwork-com/carlisle-bowenwork/index.html</link>
             <guid isPermaLink="false">25ecb0ed-d191-4564-8c53-08be3ce6b7a9</guid>
-            <pubDate>Mon, 04 Jan 2016 22:34:38 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 22:38:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
