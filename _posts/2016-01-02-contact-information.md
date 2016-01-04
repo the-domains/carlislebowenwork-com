@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T04:02:58.491Z'
-dateModified: '2016-01-04T03:56:13.825Z'
+datePublished: '2016-01-04T15:49:51.545Z'
+dateModified: '2016-01-04T15:49:38.896Z'
 title: Contact Information
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
@@ -23,9 +23,9 @@ _type: WebPage
 
 ---
 # Contact Information
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82d60b10-93d7-4cbb-be34-18252c453ca1.jpg)
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a21f2570-4485-42ae-aceb-d6713ccea682.jpg)
 
 **Carlisle Bowenwork**
 
