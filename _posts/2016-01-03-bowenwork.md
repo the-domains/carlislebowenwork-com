@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T05:01:19.695Z'
-dateModified: '2016-01-04T04:59:27.112Z'
+datePublished: '2016-01-04T05:02:32.116Z'
+dateModified: '2016-01-04T05:02:03.938Z'
 title: "Bowenwork\_"
 author: []
 sourcePath: _posts/2016-01-03-bowenwork.md
@@ -35,7 +35,6 @@ introduced to the United States twenty years ago and stands on its own in the
 field of bodywork. Bowen is the only modality that combines both physical and
 energetic elements to pinpoint stress patterns held in the body. A Bowen
 session is not a massage. Clients, if they prefer, can remain fully clothed.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ae77699-bd8d-4974-8c64-0ca63e64e0f5.jpg)
 
 The
 Bowen Technique, originated by Australian native Tom Bowen in the 1950s, is
@@ -48,6 +47,7 @@ Healing cannot happen until the parasympathetic nervous system kicks in, the
 part that enables the body to rest, digest and repair. The heart of Bowenwork
 lies in the body's ability to heal itself with gentle influence on the nervous
 system.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ae77699-bd8d-4974-8c64-0ca63e64e0f5.jpg)
 
 Prompting
 the nervous system to respond, Bowen practitioners focus on observing fascia,
