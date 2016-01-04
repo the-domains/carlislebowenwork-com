@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T20:30:26.839Z'
-dateModified: '2016-01-04T20:21:13.810Z'
+datePublished: '2016-01-04T20:41:29.287Z'
+dateModified: '2016-01-04T20:30:26.839Z'
 title: Carlisle Bowenwork
 author: []
 sourcePath: _posts/2016-01-03-carlisle-bowenwork.md
