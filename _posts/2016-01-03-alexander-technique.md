@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T23:52:06.236Z'
-dateModified: '2016-01-03T23:51:50.024Z'
+datePublished: '2016-01-04T01:38:02.576Z'
+dateModified: '2016-01-04T01:37:42.707Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -33,7 +33,7 @@ Whether you are an actor, musician, dentist, or athlete, AT is a great tool to h
 Come in and learn how to take the tension out of the things that you do every day.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88ce702-a4f3-4998-ae5d-1cd6b5746368.jpg)
 
-Joe Schaefer, a soon-to-be-certified AT teacher, has spent the last 3 years in a 1600-hour teacher training course in Baltimore, Maryland.
+Joe Schaefer, a certified AT teacher, has spent the last 3 years in a 1600-hour teacher training course in Baltimore, Maryland.
 
 For the past 5 years he has studied the Technique and has drastically changed how he uses his body.
 
