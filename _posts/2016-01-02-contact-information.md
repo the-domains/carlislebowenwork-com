@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T23:23:37.682Z'
-dateModified: '2016-01-03T23:21:28.012Z'
+datePublished: '2016-01-04T04:02:58.491Z'
+dateModified: '2016-01-04T03:56:13.825Z'
 title: Contact Information
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
@@ -31,7 +31,7 @@ _type: WebPage
 
 **Center for Wholistic Health and Wellness**
 
-200  S Spring Garden St.
+200  S. Spring Garden St.
 
 Suite B
 
