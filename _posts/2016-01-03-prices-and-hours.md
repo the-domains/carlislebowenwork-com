@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T20:50:30.644Z'
-dateModified: '2016-01-04T20:50:18.360Z'
+datePublished: '2016-01-04T21:01:40.882Z'
+dateModified: '2016-01-04T20:59:09.765Z'
 title: Services and Hours
 author: []
 sourcePath: _posts/2016-01-03-prices-and-hours.md
@@ -37,5 +37,4 @@ Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and ad
 717-386-8279
 
 nbittinger@comcast.net
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5cf4922-bbf4-4914-a099-b29c1ea105e7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc34ba1a-8b95-4305-b403-834ee6a37631.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77603f4b-0263-4712-a8b8-498f391472e7.jpg)
