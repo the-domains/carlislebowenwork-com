@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T23:23:37.708Z'
-dateModified: '2016-01-03T23:22:53.459Z'
+datePublished: '2016-01-04T02:14:55.269Z'
+dateModified: '2016-01-04T02:14:33.639Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
@@ -33,9 +33,6 @@ Facial
 Reflexology Sorensensistem(tm) uses touch stimulation of the muscles, zones and
 reflex points on the face to restore energy balance throughout the body.
 
-It helps to support the regulation of blood,
-hormones, lymph, and boosts your immune system. 
-
 As a complementary modality, it can be safely
 applied regardless of other treatments that may be in progress.
 
@@ -44,12 +41,6 @@ feel better with less muscle tension plus have a more radiant complexion.
 
 It helps to support the regulation of blood,
 hormones, lymph, and boosts your immune system. 
-
-As a complementary modality, it can be safely
-applied regardless of other treatments that may be in progress.
-
-It will help you to
-feel better with less muscle tension plus have a more radiant complexion.
 
 Mary
 Alexis has practiced within the field of occupational therapy since 1999 in various
