@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T05:02:32.116Z'
-dateModified: '2016-01-04T05:02:03.938Z'
+datePublished: '2016-01-04T15:05:30.465Z'
+dateModified: '2016-01-04T15:02:03.268Z'
 title: "Bowenwork\_"
 author: []
 sourcePath: _posts/2016-01-03-bowenwork.md
@@ -56,7 +56,7 @@ superficial muscles to the deepest layers comprising organs, bones and nerves.
 It is through this connective tissue that a practitioner can decode the body's
 stress patterns. A practitioner will spend time feeling and seeing patterns of
 tension before applying a few gentle moves. Then will allow the body to remain
-still for a few moments before continuing with the client and assess changes
+still for a few moments before continuing. The practitioner will return to assess changes
 and responses. Sometimes there will be a change in leg length or a subtle
 change in the fascia itself. That will tell the practitioner how to proceed.
 People of all ages can receive the benefits of Bowen, and sessions can be tailored
