@@ -1,6 +1,6 @@
 name: carlislebowenwork.com
 favicon: null
-layout_spectrum: 0.39554
+layout_spectrum: 0.87914
 typography_spectrum: 0.83759
 title: Carlisle Bowenwork
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c49b1b'
     - '#6e223e'
     - '#b9a8b2'
-  brandStrength: 0.1875
+  brandStrength: 0.125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
