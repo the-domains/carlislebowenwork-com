@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T21:07:48.064Z'
-dateModified: '2016-01-04T21:01:40.882Z'
+datePublished: '2016-01-04T21:13:30.339Z'
+dateModified: '2016-01-04T21:13:11.226Z'
 title: Services and Hours
 author: []
 sourcePath: _posts/2016-01-03-prices-and-hours.md
@@ -23,6 +23,7 @@ _type: WebPage
 
 ---
 # Services and Hours
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/931f381c-c19e-447c-be18-d882382b5217.jpg)
 
 **Alexander Technique -** $70/Lesson
 
@@ -37,4 +38,3 @@ Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and ad
 717-386-8279
 
 nbittinger@comcast.net
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77603f4b-0263-4712-a8b8-498f391472e7.jpg)
