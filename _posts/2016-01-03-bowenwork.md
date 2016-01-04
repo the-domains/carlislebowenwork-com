@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T00:01:18.717Z'
-dateModified: '2016-01-04T00:00:34.592Z'
+datePublished: '2016-01-04T04:55:06.870Z'
+dateModified: '2016-01-04T04:53:26.840Z'
 title: "Bowenwork\_"
 author: []
 sourcePath: _posts/2016-01-03-bowenwork.md
@@ -69,4 +69,8 @@ common being both acute and chronic pain. Bowen's effect on long-standing
 issues can be profound, and results are typically seen within one to three
 weeks. Migraines, PTSD, menopausal symptoms, fibromyalgia and infant colic are
 just a few conditions that respond positively to treatments. Bowenwork also promotes
-recovery after illness, trauma or surgery.
+recovery after illness, trauma or surgery. 
+
+717-386-8279
+
+nbittinger@comcast.net
