@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T04:55:06.941Z'
-dateModified: '2016-01-04T04:54:08.398Z'
+datePublished: '2016-01-04T15:05:30.636Z'
+dateModified: '2016-01-04T15:04:25.871Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
@@ -44,7 +44,7 @@ hormones, lymph, and boosts your immune system.
 
 Mary
 Alexis has practiced within the field of occupational therapy since 1999 in various
-settings with individuals across the lifespan with complex medical
+settings with individuals across their lifespan with complex medical
 histories.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54639bef-f73c-4c23-b34f-b6001fccfa75.jpg)
 
