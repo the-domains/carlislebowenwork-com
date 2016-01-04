@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T02:14:55.269Z'
-dateModified: '2016-01-04T02:14:33.639Z'
+datePublished: '2016-01-04T04:55:06.941Z'
+dateModified: '2016-01-04T04:54:08.398Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
@@ -55,3 +55,7 @@ driven to personally explore the integration of complementary and alternative
 treatment modalities (CAM) not only for her own self-care, but also to
 implement during treatment with those she serves within the scope of her
 practice.
+
+717-386-8279
+
+nbittinger@comcast.net
