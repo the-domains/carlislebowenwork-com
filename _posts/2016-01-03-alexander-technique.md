@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T20:30:26.879Z'
-dateModified: '2016-01-04T20:22:10.214Z'
+datePublished: '2016-01-04T20:34:36.878Z'
+dateModified: '2016-01-04T20:34:20.184Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -35,4 +35,3 @@ Joe Schaefer has been studying the Alexander Technique for the past 5 years. He 
 717-386-8279
 
 nbittinger@comcast.net
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8099d943-2cfe-41fb-9f48-3f919842d776.jpg)
