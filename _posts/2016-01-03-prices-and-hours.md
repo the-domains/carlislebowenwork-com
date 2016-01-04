@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T03:34:51.688Z'
-dateModified: '2016-01-04T03:33:57.421Z'
+datePublished: '2016-01-04T04:05:29.218Z'
+dateModified: '2016-01-04T04:05:05.590Z'
 title: Services and Hours
 author: []
 sourcePath: _posts/2016-01-03-prices-and-hours.md
@@ -33,4 +33,4 @@ _type: WebPage
 **Therapuetic Massage -** $70/Hour
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c357f5a-359e-46ca-8228-c861742eb1e2.jpg)
 
-Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and additional evening hours available upon request. Walk-in appointments are welcome, when staff is on hand, but calling ahead and confirming is suggested.
+Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and additional evening hours available upon request. Walk-in appointments are welcome, when staff is on hand, but calling ahead to confirming is suggested.
