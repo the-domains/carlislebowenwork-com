@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T21:13:30.339Z'
-dateModified: '2016-01-04T21:13:11.226Z'
+datePublished: '2016-01-05T14:48:14.062Z'
+dateModified: '2016-01-05T14:47:12.872Z'
 title: Services and Hours
 author: []
 sourcePath: _posts/2016-01-03-prices-and-hours.md
