@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T15:26:57.266Z'
-dateModified: '2016-01-05T15:26:27.032Z'
+datePublished: '2016-01-05T16:10:25.443Z'
+dateModified: '2016-01-05T15:36:56.790Z'
 title: Testimonials
 author: []
 sourcePath: _posts/2016-01-05-testimonials.md
