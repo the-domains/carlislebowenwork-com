@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T14:43:16.251Z'
-dateModified: '2016-01-05T14:42:55.023Z'
+datePublished: '2016-01-05T14:55:22.700Z'
+dateModified: '2016-01-05T14:54:59.481Z'
 title: Carlisle Bowenwork
 author: []
+sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
-published: true
 url: carlisle-bowenwork/index.html
 _type: Article
 
