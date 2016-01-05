@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T15:21:48.740Z'
-dateModified: '2016-01-05T15:21:34.350Z'
+datePublished: '2016-01-05T15:26:57.266Z'
+dateModified: '2016-01-05T15:26:27.032Z'
 title: Testimonials
 author: []
+sourcePath: _posts/2016-01-05-testimonials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-testimonials.md
-published: true
 url: testimonials/index.html
 _type: WebPage
 
@@ -118,7 +118,7 @@ He seemed more engaged with the world around him and was also more relaxed._ -Be
 
 __
 
-_A Tribute to Bowenworks\\r\\nDec 10, 2011
+_A Tribute to Bowenwork Dec 10, 2011
 is a day I will remember for a long time. I had to drive from Carlisle to NJ
 and back that day and in the early morning, I awoke to take out the dog and get
 the newspaper. While leaning over to put on my shoes (I wish it were more of an
@@ -126,7 +126,7 @@ heroic or strenuous activity), I felt a pop in my lower back and a sudden
 painful spasm there. I stretched and it seemed to go away, so I continued on my
 trip. By the time I arrived back home late that night, I was in agony, with a
 constant pain in my left leg that shot down from my buttocks down to my lower
-leg. It did not go away with rest. \\r\\nSubsequent investigation, including an
+leg. It did not go away with rest. Subsequent investigation, including an
 MRI, showed that I had a bulging disk in the L5 area of the spine and a classic
 case of sciatica. The month of January 2012 was a nightmare, as I could barely
 walk and spent most of my time in bed attempting to find a comfortable resting
@@ -142,7 +142,7 @@ therapy called Bowenworks. I was initially sceptical, as my wife had a bad
 experience with chiropractic, and many alternative therapies rely a lot on a
 placebo effect. However, at that point I was completely frustrated with
 conventional approaches, so I figured that the only thing I had to lose was a
-little money. I went to Carlisle Bowenworks and scheduled an appointment.\\r\\nI
+little money. I went to Carlisle Bowenwork and scheduled an appointment. I
 found the session restful and intriguing. Basically you lie on a comfortable
 massage table for about an hour, relaxing while the therapist (Nancy Bittinger)
 periodically manipulates your spine and various joints. Discussions with Nancy
@@ -155,21 +155,15 @@ started, I was taking 2 Tramadol and 8x200mg Ibuprofen daily. I am now taking
 no pain medication. I am able to walk and sit without any pain. One of the
 things I noticed over the course of the year was that the manipulation that
 Nancy does feet less intense as my body heals. She is doing the same thing she
-did before, but my body has realigned itself.\\r\\nWith the sciatica essentially
+did before, but my body has realigned itself. With the sciatica essentially
 cured (as opposed to suppressed, which is what the conventional therapies did),
-I am now pursuing Bowenworks as a solution to a bad bunion on my left foot.
+I am now pursuing Bowenwork as a solution to a bad bunion on my left foot.
 Again conventional therapies are drastic (the standard bunion surgery rips your
-foot apart). The Bowenworks approach is to realign things, including the way I
+foot apart). The Bowenwork approach is to realign things, including the way I
 walk, and let the body heal. I am just in the beginning stages of this, but the
-big toe already has more movement.\\r\\nIn summary, I am giving an enthusiastic
+big toe already has more movement. In summary, I am giving an enthusiastic
 testimonial for the effectiveness of Bowenworks. My wife and I go regularly to
-relax and get a â€œtune upâ€_
-
-�
-
-____
-
-. \\r\\n
+relax._
 
 [0]: https://twitter.com/intent/tweet?text=%22Nice%20friendly%20staff,%20great%20experience%22%20%40Groupon%20%23HappyCustomer
 [1]: https://twitter.com/intent/tweet?text=%22I%20am%20glad%20I%20tried%20this%20therapy.%20%20I%20did%20my%20research%20prior%20to%20going.%20Bowen%20therapy%20has%20been%20very%20effective%20for%20th...%22%20%40Groupon%20%23HappyCustomer
