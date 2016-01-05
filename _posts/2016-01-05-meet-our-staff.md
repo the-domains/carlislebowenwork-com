@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T00:06:09.926Z'
-dateModified: '2016-01-05T00:03:44.930Z'
+datePublished: '2016-01-05T00:10:59.826Z'
+dateModified: '2016-01-05T00:10:41.387Z'
 title: Meet Our Staff
 author: []
+sourcePath: _posts/2016-01-05-meet-our-staff.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-meet-our-staff.md
-published: true
 url: meet-our-staff/index.html
 _type: WebPage
 
