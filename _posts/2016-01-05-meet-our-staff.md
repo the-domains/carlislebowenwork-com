@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T14:44:45.506Z'
-dateModified: '2016-01-05T14:39:41.841Z'
+datePublished: '2016-01-05T14:48:14.215Z'
+dateModified: '2016-01-05T14:46:31.905Z'
 title: Meet Our Staff
 author: []
 sourcePath: _posts/2016-01-05-meet-our-staff.md
