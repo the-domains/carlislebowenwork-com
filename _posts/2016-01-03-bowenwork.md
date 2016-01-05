@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T15:05:30.465Z'
-dateModified: '2016-01-04T15:02:03.268Z'
+datePublished: '2016-01-05T14:48:14.202Z'
+dateModified: '2016-01-05T14:46:59.514Z'
 title: "Bowenwork\_"
 author: []
 sourcePath: _posts/2016-01-03-bowenwork.md
