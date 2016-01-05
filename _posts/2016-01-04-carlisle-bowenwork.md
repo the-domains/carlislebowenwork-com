@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Center for Wholistic Health and Wellness
-datePublished: '2016-01-04T23:28:33.020Z'
-dateModified: '2016-01-04T23:28:10.897Z'
+description: ''
+datePublished: '2016-01-05T00:50:16.160Z'
+dateModified: '2016-01-05T00:29:42.059Z'
 title: Carlisle Bowenwork
 author: []
+sourcePath: _posts/2016-01-04-carlisle-bowenwork.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-carlisle-bowenwork.md
-published: true
 url: carlisle-bowenwork/index.html
 _type: Article
 
