@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T04:26:49.582Z'
-dateModified: '2016-01-06T04:23:23.706Z'
+datePublished: '2016-01-06T14:10:10.613Z'
+dateModified: '2016-01-06T14:09:43.569Z'
 title: Testimonials
 author: []
 sourcePath: _posts/2016-01-06-testimonials.md
@@ -25,6 +25,7 @@ _type: WebPage
 # Testimonials
 
 __
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74e4164-146e-4c4e-9c22-76243ca6ba94.jpg)
 
 _Nancy, I can't
 believe the difference in the way I'm feeling. I'm definitely looking forward
@@ -252,4 +253,3 @@ things, including the way I walk, and let the body heal. I am just in the
 beginning stages of this, but the big toe already has more movement. In
 summary, I am giving an enthusiastic testimonial for the effectiveness of
 Bowenworks. My wife and I go regularly to relax._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74e4164-146e-4c4e-9c22-76243ca6ba94.jpg)
