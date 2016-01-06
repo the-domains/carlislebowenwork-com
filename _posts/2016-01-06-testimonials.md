@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T00:27:41.351Z'
-dateModified: '2016-01-06T00:27:02.875Z'
+datePublished: '2016-01-06T03:03:14.971Z'
+dateModified: '2016-01-06T03:02:11.814Z'
 title: Testimonials
 author: []
+sourcePath: _posts/2016-01-06-testimonials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-testimonials.md
-published: true
 url: testimonials/index.html
 _type: WebPage
 
