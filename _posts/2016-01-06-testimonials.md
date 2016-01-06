@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T03:04:46.880Z'
-dateModified: '2016-01-06T03:04:09.429Z'
+datePublished: '2016-01-06T04:23:23.706Z'
+dateModified: '2016-01-06T04:22:58.661Z'
 title: Testimonials
 author: []
 sourcePath: _posts/2016-01-06-testimonials.md
@@ -252,4 +252,4 @@ things, including the way I walk, and let the body heal. I am just in the
 beginning stages of this, but the big toe already has more movement. In
 summary, I am giving an enthusiastic testimonial for the effectiveness of
 Bowenworks. My wife and I go regularly to relax._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/238e41f9-16c4-4db5-897b-b69b7c4e9387.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74e4164-146e-4c4e-9c22-76243ca6ba94.jpg)
