@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T14:07:18.941Z'
-dateModified: '2016-01-29T14:06:59.992Z'
+datePublished: '2016-01-29T14:28:09.153Z'
+dateModified: '2016-01-29T14:28:06.229Z'
 title: Meet Our Staff
 author: []
 sourcePath: _posts/2016-01-05-meet-our-staff.md
@@ -50,10 +50,6 @@ Therapeutic Massage
 ****
 
 **Julie Ham - ** Bowenwork
-
-****
-
-**Tara Karper - ** Bowenwork
 
 ****
 
