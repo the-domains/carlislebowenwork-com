@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T14:48:14.215Z'
-dateModified: '2016-01-05T14:46:31.905Z'
+datePublished: '2016-01-29T14:07:18.941Z'
+dateModified: '2016-01-29T14:06:59.992Z'
 title: Meet Our Staff
 author: []
 sourcePath: _posts/2016-01-05-meet-our-staff.md
@@ -22,6 +22,8 @@ url: meet-our-staff/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b47095d-bccc-4861-b4ff-0482f3fb476b.jpg)
+
 # Meet Our Staff
 
 ****
@@ -68,4 +70,3 @@ Therapeutic Massage
 ****
 
 **nbittinger@comcast.net**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b2e3441-917d-4a4a-98cf-e6f8b34592b4.jpg)
