@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T16:01:03.912Z'
-dateModified: '2016-01-29T16:01:00.922Z'
+datePublished: '2016-01-29T20:46:03.237Z'
+dateModified: '2016-01-29T20:41:18.653Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -26,11 +26,6 @@ _type: WebPage
 
 The Alexander Technique (AT) teaches you how to unlearn harmful habits of movement through thinking and choice.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69914152-9b93-4b2f-be4d-14b417e2b31b.jpg)
-
-AT is given in "lessons" as you become aware of and learn how to take the tension out of the things that you do every day by applying what is discovered throughout the lesson. Both table work and hands-on work in movement or "activity" are addressed. These can range from looking at how you sit at your desk to how you swim. Because of this, the Alexander Technique has helped people rethink and reshape their movement for over 100 years.
-
-Whether you are an actor, musician, dentist, or athlete, AT is a great tool to help find, explore, and discover freer and easier ways to move.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ba8b489-3f0a-4fcf-b683-71244bd49244.jpg)
 
 Joe Schaefer has been studying the Alexander Technique for the past 5 years. He is AmSAT-Certified, training in Baltimore's AT Mid-Atlantic teacher training program under Nancy Romita and Wendy Salkind. In addition to this, he has worked with Robert Bedford. Individual or group lessons are available as Joe has given workshops at local universities for actors and musicians.
 
