@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T14:28:09.224Z'
+datePublished: '2016-01-29T14:28:09.270Z'
 dateModified: '2016-01-29T14:28:06.229Z'
 title: Meet Our Staff
 author: []
