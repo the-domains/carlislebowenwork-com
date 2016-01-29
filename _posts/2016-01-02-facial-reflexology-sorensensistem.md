@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T16:03:43.785Z'
-dateModified: '2016-01-29T16:03:40.423Z'
+datePublished: '2016-01-29T20:40:45.026Z'
+dateModified: '2016-01-29T20:40:44.391Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
@@ -38,7 +38,7 @@ It will help you to
 feel better with less muscle tension plus have a more radiant complexion.
 
 It helps to support the regulation of blood,
-hormones, lymph, and boosts your immune system. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d31cac7b-6870-4872-9ce0-8e90b0fe2179.jpg)
+hormones, lymph, and boosts your immune system. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d3f2f73-6e09-48f9-b089-2d7265404a47.jpg)
 
 Mary
 Alexis has practiced within the field of occupational therapy since 1999 in various
