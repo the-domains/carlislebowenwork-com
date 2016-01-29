@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T14:28:09.270Z'
-dateModified: '2016-01-29T14:28:06.229Z'
+datePublished: '2016-01-29T20:49:09.122Z'
+dateModified: '2016-01-29T20:49:06.168Z'
 title: Meet Our Staff
 author: []
 sourcePath: _posts/2016-01-05-meet-our-staff.md
@@ -22,11 +22,10 @@ url: meet-our-staff/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b47095d-bccc-4861-b4ff-0482f3fb476b.jpg)
-
 # Meet Our Staff
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/785b22bc-316d-4c81-9ea0-07cb61d40122.jpg)
 
 **Mary Alexis - **Facial Reflexology, Aromatherapy
 
