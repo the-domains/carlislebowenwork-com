@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T02:25:17.563Z'
-dateModified: '2016-01-31T02:25:14.121Z'
+datePublished: '2016-01-31T05:50:21.751Z'
+dateModified: '2016-01-31T05:50:13.098Z'
 title: "Services Hours Contact\_"
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
@@ -34,9 +34,9 @@ _type: WebPage
 
 Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and additional evening hours available upon request.Walk-in appointments are welcome, when staff is on hand, but calling ahead to confirm is suggested.
 
-**Carlisle Bowenwork**
+****
 
-**Center for Wholistic Health and Well****ness**
+**Carlisle Bowenwork**
 
 200 S. Spring Garden St.
 
