@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T02:10:15.947Z'
-dateModified: '2016-01-31T02:10:12.725Z'
+datePublished: '2016-01-31T02:20:30.199Z'
+dateModified: '2016-01-31T02:20:24.872Z'
 title: Carlisle Bowenwork
 author: []
 sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
@@ -22,9 +22,8 @@ url: carlisle-bowenwork/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20a2eb34-4482-4d58-8de7-8f5bbe6437d1.jpg)
-
 # Carlisle Bowenwork
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34c1dfc0-c21c-4771-8797-d744409392c2.jpg)
 
 **New Ideas in Wellness and Education**
 
