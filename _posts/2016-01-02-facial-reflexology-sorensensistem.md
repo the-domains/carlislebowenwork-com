@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T03:11:22.442Z'
-dateModified: '2016-01-31T03:11:19.310Z'
+datePublished: '2016-01-31T14:57:28.712Z'
+dateModified: '2016-01-31T14:57:24.770Z'
 title: Facial Reflexology Sorensensistem
 author: []
 sourcePath: _posts/2016-01-02-facial-reflexology-sorensensistem.md
@@ -47,7 +47,7 @@ histories.
 
 Mary enjoys helping those she
 serves to reach independence in all facets of their
-lives using a client-centered approach. Over the past three years, she has been
+lives using a client-centered approach. She has been
 driven to personally explore the integration of complementary and alternative
 treatment modalities (CAM) not only for her own self-care, but also to
 implement during treatment with those she serves within the scope of her
