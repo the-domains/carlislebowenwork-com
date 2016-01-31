@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T05:55:58.891Z'
-dateModified: '2016-01-31T05:55:56.373Z'
-title: "Services\_"
+datePublished: '2016-01-31T06:04:05.564Z'
+dateModified: '2016-01-31T05:57:53.730Z'
+title: Services Hours Contact
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
 published: true
@@ -22,9 +22,8 @@ url: contact-information/index.html
 _type: WebPage
 
 ---
+# Services Hours Contact
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c33ca54-a866-46a8-8bdc-3f8f7ffd58cb.jpg)
-
-# Services 
 
 # **Alexander Technique -**$70/Lesson**Bowenwork -**$70/Adults, $20/Children**Facial Reflexology -**$60/Session**Therapeutic Massage -**$70/Hour
 
