@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T05:50:21.751Z'
-dateModified: '2016-01-31T05:50:13.098Z'
-title: "Services Hours Contact\_"
+datePublished: '2016-01-31T05:55:58.822Z'
+dateModified: '2016-01-31T05:55:56.373Z'
+title: "Services\_"
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
 published: true
@@ -22,19 +22,17 @@ url: contact-information/index.html
 _type: WebPage
 
 ---
-# Services Hours Contact ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c33ca54-a866-46a8-8bdc-3f8f7ffd58cb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c33ca54-a866-46a8-8bdc-3f8f7ffd58cb.jpg)
 
-**Alexander Technique -**$70/Lesson
+# Services 
 
-**Bowenwork -**$70/Adults, $20/Children
+# **Alexander Technique -**$70/Lesson**Bowenwork -**$70/Adults, $20/Children**Facial Reflexology -**$60/Session**Therapeutic Massage -**$70/Hour
 
-**Facial Reflexology -**$60/Session
+# Hours 
 
-**Therapeutic Massage -**$70/Hour
+# Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and additional evening hours available upon request.Walk-in appointments are welcome, when staff is on hand, but calling ahead to confirm is suggested.
 
-Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and additional evening hours available upon request.Walk-in appointments are welcome, when staff is on hand, but calling ahead to confirm is suggested.
-
-****
+# Contact 
 
 **Carlisle Bowenwork**
 
