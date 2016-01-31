@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T06:11:09.798Z'
-dateModified: '2016-01-31T06:11:06.315Z'
+datePublished: '2016-01-31T06:13:06.789Z'
+dateModified: '2016-01-31T06:13:03.909Z'
 title: Services Hours Contact
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
@@ -33,11 +33,7 @@ _type: WebPage
 
 **Therapeutic Massage -**$70/Hour
 
-# Hours 
-
-Office hours are typically Monday through Friday, 9am-5pm, with Saturdays and additional evening hours available upon request.Walk-in appointments are welcome, when staff is on hand, but calling ahead to confirm is suggested.
-
-# Contact 
+**Office hours** are typically Monday through Friday, 9am-5pm, with Saturdays and additional evening hours available upon request.Walk-in appointments are welcome, when staff is on hand, but calling ahead to confirm is suggested.
 
 **Carlisle Bowenwork**
 
