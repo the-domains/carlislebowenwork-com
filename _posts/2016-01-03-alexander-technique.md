@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T20:37:48.387Z'
+datePublished: '2016-01-31T20:37:48.442Z'
 dateModified: '2016-01-31T20:37:45.780Z'
 title: Alexander Technique
 author: []
