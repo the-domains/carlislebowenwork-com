@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T14:10:10.613Z'
-dateModified: '2016-01-06T14:09:43.569Z'
+datePublished: '2016-01-31T02:38:11.314Z'
+dateModified: '2016-01-31T02:38:07.536Z'
 title: Testimonials
 author: []
 sourcePath: _posts/2016-01-06-testimonials.md
@@ -22,10 +22,11 @@ url: testimonials/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/032c38f5-9d17-496c-8890-5693f0542949.jpg)
+
 # Testimonials
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74e4164-146e-4c4e-9c22-76243ca6ba94.jpg)
 
 _Nancy, I can't
 believe the difference in the way I'm feeling. I'm definitely looking forward
