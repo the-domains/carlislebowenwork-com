@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:50:31.216Z'
-dateModified: '2016-01-29T20:50:28.182Z'
+datePublished: '2016-01-31T01:53:08.829Z'
+dateModified: '2016-01-31T01:44:08.806Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -26,7 +26,6 @@ _type: WebPage
 
 The Alexander Technique (AT) teaches you how to unlearn harmful habits of movement through thinking and choice.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69914152-9b93-4b2f-be4d-14b417e2b31b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/992271e7-7fbd-4c64-986d-156f452f33c0.jpg)
 
 Joe Schaefer has been studying the Alexander Technique for the past 5 years. He is AmSAT-Certified, training in Baltimore's AT Mid-Atlantic teacher training program under Nancy Romita and Wendy Salkind. In addition to this, he has worked with Robert Bedford. Individual or group lessons are available as Joe has given workshops at local universities for actors and musicians.
 
