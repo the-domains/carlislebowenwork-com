@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T02:18:01.409Z'
-dateModified: '2016-01-31T02:17:58.446Z'
-title: 'Services, Hours & Contact Information'
+datePublished: '2016-01-31T02:25:17.363Z'
+dateModified: '2016-01-31T02:25:14.121Z'
+title: "Services Hours Contact\_"
 author: []
 sourcePath: _posts/2016-01-02-contact-information.md
 published: true
@@ -22,8 +22,7 @@ url: contact-information/index.html
 _type: WebPage
 
 ---
-# Services, Hours & Contact Information
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c33ca54-a866-46a8-8bdc-3f8f7ffd58cb.jpg)
+# Services Hours Contact ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c33ca54-a866-46a8-8bdc-3f8f7ffd58cb.jpg)
 
 **Alexander Technique -**$70/Lesson
 
