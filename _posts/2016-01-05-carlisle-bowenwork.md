@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T14:26:56.886Z'
-dateModified: '2016-01-29T14:26:53.440Z'
+datePublished: '2016-01-31T02:06:53.155Z'
+dateModified: '2016-01-31T02:06:50.281Z'
 title: Carlisle Bowenwork
 author: []
 sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
@@ -26,8 +26,10 @@ _type: Article
 
 # Carlisle Bowenwork
 
-**Center for Wholistic Health and Wellness**
+**New Ideas in Wellness and Education**
 
 Carlisle Bowenwork is truly unique, and a destination for
 people from as far as Maryland, West Virginia, and New York, who are seeking
 alternatives for maintaining their health.
+
+_"Not only do I feel physically so much better after yesterday's session, but I am psychologically so much happier. Thank you for whatever it is that you did -- it has definitely already changed my future. I need you to know how truly grateful I am for your help."_ -Sharon H.
