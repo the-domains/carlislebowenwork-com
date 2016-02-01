@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:55:43.422Z'
-dateModified: '2016-02-01T15:55:41.003Z'
+datePublished: '2016-02-01T18:17:44.140Z'
+dateModified: '2016-02-01T18:17:28.888Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -29,7 +29,7 @@ _type: WebPage
 
 **Why should I try it?** Think about this. Have you ever heard of a toddler or little kid complain that their "back" is killing them. Probably not. This is because kids know how to use their bodies as nature intended. As adults we do things so repetitively and unconsciously that our movement becomes habitual, thoughtless and eventually distorted.
 
-**How does it work?** The Alexander Technique is brain-based and works by rewiring the nervous system. This is possible by keeping the student actively engaged in thinking and awareness of the body in movement. A lot of the time it's as if we're autopilot, leaving our bodies on the back burner. When this happens, harmful and unhelpful habits of posture are bound to form.
+**How does it work?** The Alexander Technique is brain-based and works by rewiring the nervous system. This is possible by keeping the student actively engaged in thinking and awareness of the body in movement. A lot of the time it's as if we're on autopilot, leaving our bodies on the back burner. When this happens, harmful and unhelpful habits of posture are bound to form.
 
 **How is it different?** AT is given in "lessons" in which you become aware of how to take tension out of the things you do every day. When this happens, freer and easier movement is discovered.
 
