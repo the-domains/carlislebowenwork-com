@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T22:51:54.771Z'
-dateModified: '2016-02-02T22:51:51.021Z'
+datePublished: '2016-02-02T23:02:09.255Z'
+dateModified: '2016-02-02T22:58:02.371Z'
 title: Meet the Owner
 author: []
-sourcePath: _posts/2016-02-02-meet-the-owner.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-02-02-meet-the-owner.md
+published: true
 url: meet-the-owner/index.html
 _type: WebPage
 
 ---
 # Meet the Owner
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a790b9c-ed3b-47d0-bb17-b2e6f58dad7e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb40db0-864b-456f-8125-ef79ca72a304.jpg)
 
 My name is Nancy Bittinger. I have been passionate
 about the world of Alternative Health since 1993, when I first entered massage
@@ -78,5 +78,3 @@ Therapist 1993
 **717-386-8279**
 
 **nbittinger@comcast.net**
-
-s
