@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T22:51:14.015Z'
-dateModified: '2016-02-02T22:50:38.507Z'
+datePublished: '2016-02-02T22:51:54.771Z'
+dateModified: '2016-02-02T22:51:51.021Z'
 title: Meet the Owner
 author: []
+sourcePath: _posts/2016-02-02-meet-the-owner.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-meet-the-owner.md
-published: true
 url: meet-the-owner/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Meet the Owner
