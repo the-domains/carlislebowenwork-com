@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T15:02:27.137Z'
-dateModified: '2016-02-04T15:02:23.500Z'
+datePublished: '2016-02-04T15:04:55.115Z'
+dateModified: '2016-02-04T15:04:53.032Z'
 title: Meet the Owner
 author: []
 sourcePath: _posts/2016-02-02-meet-the-owner.md
@@ -48,21 +48,6 @@ to teach Bowen as continuing education to massage therapists.
 
 I live in
 Boiling Springs, PA with my husband, two teenage boys, and one misbehaved dog.
-
-Bowenwork
-Associate Instructor 2015
-
-Bowenwork
-Practitioner 2012
-
-Reiki
-Practitioner 2010
-
-Thai Yoga
-Massage Therapist 2005
-
-Massage
-Therapist 1993
 
 **717-386-8279**
 
