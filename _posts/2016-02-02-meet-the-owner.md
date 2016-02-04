@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T23:02:09.255Z'
-dateModified: '2016-02-02T22:58:02.371Z'
+datePublished: '2016-02-04T14:55:47.220Z'
+dateModified: '2016-02-04T14:55:44.494Z'
 title: Meet the Owner
 author: []
+sourcePath: _posts/2016-02-02-meet-the-owner.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-meet-the-owner.md
-published: true
 url: meet-the-owner/index.html
 _type: WebPage
 
@@ -29,29 +29,18 @@ My name is Nancy Bittinger. I have been passionate
 about the world of Alternative Health since 1993, when I first entered massage
 school. My learning has never stopped since then.
 
-When I took
-my first Bowenwork Class in 2011, I knew that I had found something that was
+Taking that first Bowenwork class, was a profoundly positive-life-altering-make-the-world-a-better-place, kind of decision. I feel blessed and am thankful that this is the work I'm sharing with the world.
+
+I knew that I had found something that was
 going to change my life and the life of the people I work with. Bowenwork has
 helped my clients in ways that I never could have imagined. I opened Carlisle
 Bowenwork in 2012\. For me, it's been a huge learning curve to run a large
 Wellness Center, and bring new therapies to Central PA, but now, I can't
 imagine having any other profession.
 
-Taking that
-first Bowenwork class, was a profoundly
-positive-life-altering-make-the-world-a-better-place, kind of decision. I feel
-blessed and am thankful that this is the work I'm sharing with the world.
-
 The only
 natural extension of loving this work the way I do, is to begin teaching others
-how to do it. Teaching has always been something I've done for "fun". I've
-created couple's massage classes, taught infant massage classes, and taught
-Girl Scout troops. At my church, I have been involved in every aspect of
-religious education. I've taught every age group, including the youth group. I
-also taught a 27-week sexual education class called "Our Whole Lives" to middle
-schoolers! That takes a special kind of brave to do that, but I loved every
-minute of it. Bringing two things that I'm so passionate about together;
-Bowenwork and teaching, feels like my highest calling.
+how to do it. 
 
 There will
 soon be more information about the Bowen curriculum that is now being developed
