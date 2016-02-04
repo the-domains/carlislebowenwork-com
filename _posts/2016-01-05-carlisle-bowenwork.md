@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T15:03:11.831Z'
-dateModified: '2016-02-04T15:03:08.871Z'
-title: Carlisle Bowenwork
+datePublished: '2016-02-04T15:09:50.865Z'
+dateModified: '2016-02-04T15:09:47.531Z'
+title: New Ideas in Wellness and Education
 author: []
 sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
 published: true
@@ -22,10 +22,8 @@ url: carlisle-bowenwork/index.html
 _type: Article
 
 ---
-# Carlisle Bowenwork
+# New Ideas in Wellness and Education
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b972f896-d426-47f7-b07f-0a70ffd2b628.jpg)
-
-**New Ideas in Wellness and Education**
 
 Carlisle Bowenwork is truly unique, and a destination for
 people from as far as Maryland, West Virginia, and New York, who are seeking
