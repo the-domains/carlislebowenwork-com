@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T15:19:46.497Z'
-dateModified: '2016-02-04T15:19:40.920Z'
+datePublished: '2016-02-04T15:27:08.493Z'
+dateModified: '2016-02-04T15:27:05.200Z'
 title: New Ideas in Wellness and Education
 author: []
 sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
@@ -22,7 +22,7 @@ url: carlisle-bowenwork/index.html
 _type: Article
 
 ---
-## New Ideas in Wellness and Education
+# New Ideas in Wellness and Education
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b972f896-d426-47f7-b07f-0a70ffd2b628.jpg)
 
 ## Carlisle Bowenwork is truly unique, and a destination for
