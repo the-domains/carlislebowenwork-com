@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T18:12:02.351Z'
-dateModified: '2016-02-12T18:11:59.413Z'
+datePublished: '2016-02-12T18:52:39.715Z'
+dateModified: '2016-02-12T18:52:37.210Z'
 title: Meet the Owner
 author: []
 sourcePath: _posts/2016-02-02-meet-the-owner.md
