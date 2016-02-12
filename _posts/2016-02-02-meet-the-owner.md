@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T16:05:40.333Z'
-dateModified: '2016-02-12T16:05:36.534Z'
+datePublished: '2016-02-12T16:06:47.836Z'
+dateModified: '2016-02-12T16:06:45.415Z'
 title: Meet the Owner
 author: []
 sourcePath: _posts/2016-02-02-meet-the-owner.md
@@ -52,5 +52,3 @@ Boiling Springs, PA with my husband, two teenage boys, and one misbehaved dog.
 **717-386-8279**
 
 **nbittinger@comcast.net**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fedc335f-779d-413e-bc34-abb3f0fa2925.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d0a564-e834-4897-985f-c1c699a0bfdb.jpg)
