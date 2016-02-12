@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T15:47:54.776Z'
-dateModified: '2016-02-12T15:47:50.676Z'
+datePublished: '2016-02-12T15:57:41.195Z'
+dateModified: '2016-02-12T15:57:40.223Z'
 title: Meet the Owner
 author: []
 sourcePath: _posts/2016-02-02-meet-the-owner.md
@@ -22,9 +22,8 @@ url: meet-the-owner/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe2bc4a8-4206-418d-b64c-22a2c62268bf.jpg)
-
 # Meet the Owner
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e31266df-01bf-40af-8115-c07e8c131422.jpg)
 
 ## My name is Nancy Bittinger. I have been passionate
 about the world of Alternative Health since 1993, when I first entered massage
@@ -53,3 +52,5 @@ Boiling Springs, PA with my husband, two teenage boys, and one misbehaved dog.
 **717-386-8279**
 
 **nbittinger@comcast.net**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fedc335f-779d-413e-bc34-abb3f0fa2925.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d0a564-e834-4897-985f-c1c699a0bfdb.jpg)
