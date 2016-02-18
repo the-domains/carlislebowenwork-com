@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T15:33:00.699Z'
-dateModified: '2016-02-18T15:32:28.113Z'
+datePublished: '2016-02-18T20:48:54.144Z'
+dateModified: '2016-02-18T20:47:50.897Z'
 title: New Ideas in Wellness and Education
 author: []
 sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
