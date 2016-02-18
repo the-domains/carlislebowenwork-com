@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T20:48:54.144Z'
-dateModified: '2016-02-18T20:47:50.897Z'
+datePublished: '2016-02-18T21:00:51.170Z'
+dateModified: '2016-02-18T20:53:18.284Z'
 title: New Ideas in Wellness and Education
 author: []
 sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
@@ -28,5 +28,3 @@ _type: Article
 # Carlisle Bowenwork is truly unique, and a destination for
 people from as far as Maryland, West Virginia, and New York, who are seeking
 alternatives for maintaining their health.
-
-_"Not only do I feel physically so much better after yesterday's session, but I am psychologically so much happier. Thank you for whatever it is that you did -- it has definitely already changed my future. I need you to know how truly grateful I am for your help."_ -Sharon H.
