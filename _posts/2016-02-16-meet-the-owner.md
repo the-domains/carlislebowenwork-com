@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T19:11:41.335Z'
-dateModified: '2016-02-19T19:11:39.411Z'
-title: "My name is Nancy Bittinger.\_I have been passionate about the world of Alternative Health since 1993, when I first entered massage school. My learning has never stopped since then."
+datePublished: '2016-02-19T19:19:53.058Z'
+dateModified: '2016-02-19T19:19:49.054Z'
+title: Meet the owner
 author: []
 sourcePath: _posts/2016-02-16-meet-the-owner.md
 published: true
