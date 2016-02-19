@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T15:48:50.318Z'
-dateModified: '2016-02-19T15:48:37.593Z'
+datePublished: '2016-02-19T16:31:59.005Z'
+dateModified: '2016-02-19T16:31:54.157Z'
 title: Meet the Owner
 author: []
 sourcePath: _posts/2016-02-16-meet-the-owner.md
@@ -26,7 +26,7 @@ _type: WebPage
 
 # Meet the Owner
 
-**My name is Nancy Bittinger.** I have been passionate about the world of Alternative Health since 1993, when I first entered massage school. My learning has never stopped since then.
+# My name is Nancy Bittinger. I have been passionate about the world of Alternative Health since 1993, when I first entered massage school. My learning has never stopped since then.
 
 **When I took my first Bowenwork Class in 2011**, I
 knew that I had found something that was going to change my life and the life
