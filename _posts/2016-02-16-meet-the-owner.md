@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T16:54:24.271Z'
-dateModified: '2016-02-19T16:54:22.108Z'
+datePublished: '2016-02-19T16:58:32.921Z'
+dateModified: '2016-02-19T16:58:30.154Z'
 title: "My name is Nancy Bittinger.\_I have been passionate about the world of Alternative Health since 1993, when I first entered massage school. My learning has never stopped since then."
 author: []
 sourcePath: _posts/2016-02-16-meet-the-owner.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d8c636a-bec9-420b-a6ab-f3f3571970f2.jpg)
 
-# My name is Nancy Bittinger. I have been passionate about the world of Alternative Health since 1993, when I first entered massage school. My learning has never stopped since then.
+## My name is Nancy Bittinger. I have been passionate about the world of Alternative Health since 1993, when I first entered massage school. My learning has never stopped since then.
 
 **When I took my first Bowenwork Class in 2011**, I
 knew that I had found something that was going to change my life and the life
