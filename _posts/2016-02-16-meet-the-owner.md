@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T19:32:02.243Z'
-dateModified: '2016-02-19T19:31:57.946Z'
+datePublished: '2016-02-26T15:02:58.919Z'
+dateModified: '2016-02-26T15:02:58.377Z'
 title: Meet the owner
 author: []
 sourcePath: _posts/2016-02-16-meet-the-owner.md
@@ -43,9 +43,6 @@ way I do, is to begin teaching others how to do it.
 **There will soon be more information** about the Bowen
 curriculum that is now being developed to teach Bowen as continuing education
 to massage therapists.
-
-**I live in Boiling Springs**, PA with my husband, two
-teenage boys, and one misbehaved dog.
 
 **717-386-8279**
 
