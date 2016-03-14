@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T18:17:44.140Z'
-dateModified: '2016-02-01T18:17:28.888Z'
+datePublished: '2016-03-14T22:41:55.758Z'
+dateModified: '2016-03-14T22:41:23.315Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -38,7 +38,7 @@ _type: WebPage
 
 **How many lessons should I take?** Think of it as learning a new instrument, it takes time. Learning to become poised and aware of your body takes time too. 20 to 30 lessons is suggested for the unlearning of unhelpful habits and the relearning of freedom and ease. By applying this to your everyday life the Alexander Technique will help you rethink and reshape your ideas about movement and much more.
 
-**Joe Schaefer** has been studying the Alexander Technique for the past 5 years. He is AmSAT-Certified, training in Baltimore's AT Mid-Atlantic teacher training program under Nancy Romita and Wendy Salkind. In addition to this, he has worked with Robert Bedford. Individual or group lessons are available as Joe has given workshops at local universities for actors and musicians.
+**Joe Schaefer** has been studying the Alexander Technique for the past 5 years. He is AmSAT-Certified, training in Baltimore's AT Mid-Atlantic teacher training program under Nancy Romita and Wendy Salkind. In addition to this, he has worked with Robert Bedford. Individual or group lessons are available as Joe has given workshops at local universities for actors and musicians. You can learn more about AT by visiting Joe's website, 
 
 717-386-8279
 
