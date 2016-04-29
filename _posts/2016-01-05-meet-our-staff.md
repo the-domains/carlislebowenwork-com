@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T18:37:29.439Z'
-dateModified: '2016-04-29T18:36:59.444Z'
+datePublished: '2016-04-29T21:33:03.077Z'
+dateModified: '2016-04-29T18:37:31.048Z'
 title: Meet Our Staff
 author:
   - name: ''
@@ -37,7 +37,7 @@ _type: WebPage
 
 ****
 
-**Nancy Bittinger - ** owner, Applied Myoskeletal Therapy, Bowenwork, Reiki, Thai Yoga Massage, Therapeutic Massage
+**Nancy Bittinger - ** owner, Applied Myoskeletal Therapy, Bowenwork, Reiki, Thai Yoga Massage, Therapeutic Massage, Voila Method
 
 ****
 
