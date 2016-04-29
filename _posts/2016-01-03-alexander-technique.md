@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T22:57:43.913Z'
-dateModified: '2016-03-14T22:41:58.756Z'
+datePublished: '2016-04-29T18:38:20.921Z'
+dateModified: '2016-04-29T18:38:20.591Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
@@ -18,13 +17,14 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: alexander-technique/index.html
 _type: WebPage
 
 ---
 # Alexander Technique
 
-**What is the Alexander Technique?** The Alexander Technique (AT) can be defined in two ways. Either it's a way of learning to be poised or a way of unlearning habits of movement that prevent poise in the first place.  Regardless of definition you come to a new place and move in a different manner.
+**What is the Alexander Technique?** The Alexander Technique (AT) can be defined in two ways. Either it's a way of learning to be poised or a way of unlearning habits of movement that prevent poise in the first place. Regardless of definition you come to a new place and move in a different manner.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69914152-9b93-4b2f-be4d-14b417e2b31b.jpg)
 
 **Why should I try it?** Think about this. Have you ever heard of a toddler or little kid complain that their "back" is killing them. Probably not. This is because kids know how to use their bodies as nature intended. As adults we do things so repetitively and unconsciously that our movement becomes habitual, thoughtless and eventually distorted.
@@ -38,7 +38,7 @@ _type: WebPage
 
 **How many lessons should I take?** Think of it as learning a new instrument, it takes time. Learning to become poised and aware of your body takes time too. 20 to 30 lessons is suggested for the unlearning of unhelpful habits and the relearning of freedom and ease. By applying this to your everyday life the Alexander Technique will help you rethink and reshape your ideas about movement and much more.
 
-**Joe Schaefer** has been studying the Alexander Technique for the past 5 years. He is AmSAT-Certified, training in Baltimore's AT Mid-Atlantic teacher training program under Nancy Romita and Wendy Salkind. In addition to this, he has worked with Robert Bedford. Individual or group lessons are available as Joe has given workshops at local universities for actors and musicians. You can learn more about AT by visiting Joe's website, www.atjoeschaefer.com 
+**Joe Schaefer** has been studying the Alexander Technique for the past 5 years. He is AmSAT-Certified, training in Baltimore's AT Mid-Atlantic teacher training program under Nancy Romita and Wendy Salkind. In addition to this, he has worked with Robert Bedford. Individual or group lessons are available as Joe has given workshops at local universities for actors and musicians. You can learn more about AT by visiting Joe's website, www.atjoeschaefer.com.
 
 717-386-8279
 
