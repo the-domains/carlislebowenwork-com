@@ -3,13 +3,14 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T20:49:09.062Z'
-dateModified: '2016-01-29T20:49:06.168Z'
+datePublished: '2016-04-29T18:37:29.439Z'
+dateModified: '2016-04-29T18:36:59.444Z'
 title: Meet Our Staff
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-05-meet-our-staff.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: meet-our-staff/index.html
 _type: WebPage
 
@@ -35,8 +37,7 @@ _type: WebPage
 
 ****
 
-**Nancy Bittinger - ** owner, Bowenwork, Reiki, Thai Yoga Massage,
-Therapeutic Massage
+**Nancy Bittinger - ** owner, Applied Myoskeletal Therapy, Bowenwork, Reiki, Thai Yoga Massage, Therapeutic Massage
 
 ****
 
