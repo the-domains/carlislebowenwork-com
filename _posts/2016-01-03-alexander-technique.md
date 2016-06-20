@@ -5,18 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T18:38:20.921Z'
-dateModified: '2016-04-29T18:38:20.591Z'
+datePublished: '2016-06-20T17:26:19.391Z'
+dateModified: '2016-06-20T13:27:00.041Z'
 title: Alexander Technique
 author: []
 sourcePath: _posts/2016-01-03-alexander-technique.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: alexander-technique/index.html
 _type: WebPage
