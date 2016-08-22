@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Meet the owner
+    id: b42b02eb-8456-41df-9df0-e4a86717c53b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4b6ab32-1685-4a57-9a82-e694feaa9de2.jpg
 title: Center for Wholistic Health and Wellness
