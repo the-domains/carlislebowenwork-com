@@ -1,21 +1,21 @@
-typography_spectrum: 0.83759
+layout_spectrum: 0.4249839575495571
+typography_spectrum: 0.511867409106344
 color:
   brandColors:
-    - '#d4d4d2'
-    - '#2c2723'
-    - '#91a07f'
-    - '#463e3b'
-    - '#5b6d53'
-  brandStrength: 0.3125
-  lightness: 0.8125
-  saturation: 0.9375
-  rhythmicContrast: 1
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.299201556481421
+  lightness: 0.7431828991975635
+  saturation: 0.6054813389200717
+  rhythmicContrast: 0.8060237525496632
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0e7dce6-48fa-40f8-a4fc-4158b833c42a.jpg
   type: null
   appId: Carlisle Bowenwork
-layout_spectrum: 0.50642
 analytics:
   google: null
   facebook: null
