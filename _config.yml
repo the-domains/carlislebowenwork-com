@@ -11,20 +11,26 @@ color:
   saturation: 0.9375
   rhythmicContrast: 1
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0e7dce6-48fa-40f8-a4fc-4158b833c42a.jpg
   type: null
-  appId: null
+  appId: Carlisle Bowenwork
 layout_spectrum: 0.50642
 analytics:
   google: null
   facebook: null
   twitter: null
-name: carlislebowenwork.com
+author:
+  name: Nancy
+  email: nbittinger@comcast.net
+  url: carlislebowenworkpa.com
+name: carlislebowenworkpa.com
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: Carlisle Bowenwork
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4b6ab32-1685-4a57-9a82-e694feaa9de2.jpg
+title: Center for Wholistic Health and Wellness
 description: Center for Wholistic Health and Wellness
 purpose: []
