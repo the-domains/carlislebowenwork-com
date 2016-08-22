@@ -1,68 +1,44 @@
 ---
+datePublished: '2016-08-22T15:33:41.236Z'
+sourcePath: _posts/2016-01-05-meet-our-staff.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-29T21:33:03.077Z'
-dateModified: '2016-04-29T18:37:31.048Z'
-title: Meet Our Staff
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-01-05-meet-our-staff.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+via: {}
+dateModified: '2016-08-22T15:33:40.813Z'
+title: Meet Our Staff
+publisher: {}
+description: 'Mary Alexis - Facial Reflexology, Aromatherapy'
+inLanguage: null
+inNav: true
 starred: false
 url: meet-our-staff/index.html
 _type: WebPage
 
 ---
 # Meet Our Staff
-
-****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/785b22bc-316d-4c81-9ea0-07cb61d40122.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d64c9b4b071828a412f2205bbb6548c3438e7455.jpg)
 
 **Mary Alexis - **Facial Reflexology, Aromatherapy
 
-****
+**Candy Arena - **Bowenwork, Reiki
 
-**Candy Arena - **Bowenwork
+**Nancy Bittinger -** owner, Applied Myoskeletal Therapy, Bowenwork, Reiki, Thai Yoga Massage, Therapeutic Massage, Voila Method
 
-****
+**Jonathan Burton -** Bowenwork, Therapeutic Massage, Craniosacral Therapy
 
-**Nancy Bittinger - ** owner, Applied Myoskeletal Therapy, Bowenwork, Reiki, Thai Yoga Massage, Therapeutic Massage, Voila Method
+**Cindy Good -** Bowenwork
 
-****
+**Julie Ham -** Bowenwork
 
-**Jonathan Burton - ** Bowenwork, Therapeutic Massage
-
-****
-
-**Cindy Good - ** Bowenwork
-
-****
-
-**Julie Ham - ** Bowenwork
-
-****
-
-**Betsy Payne - **Bowenwork, Reiki
-
-****
+**Betsy Payne - **Bowenwork, Reiki, Therapeutic Massage, Craniosacral Therapy
 
 **Joe Schaefer -** Alexander Techniqu**e**
 
-****
-
 **717-386-8279**
-
-****
 
 **nbittinger@comcast.net**
