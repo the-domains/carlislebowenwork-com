@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T14:19:22.515Z'
+datePublished: '2016-08-22T14:21:31.758Z'
 sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T14:18:28.700Z'
+dateModified: '2016-08-22T14:21:31.250Z'
 title: New Ideas in Wellness and Education
 publisher: {}
 description: >-
