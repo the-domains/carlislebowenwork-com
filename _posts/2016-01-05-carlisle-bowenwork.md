@@ -1,30 +1,27 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-02-19T19:38:09.249Z'
-dateModified: '2016-02-19T19:38:03.381Z'
-title: New Ideas in Wellness and Education
-author: []
+datePublished: '2016-08-22T13:09:51.021Z'
 sourcePath: _posts/2016-01-05-carlisle-bowenwork.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-22T13:09:50.551Z'
+title: New Ideas in Wellness and Education
+publisher: {}
+description: >-
+  Carlisle Bowenwork is truly unique, and a destination for people from as far
+  as Maryland, West Virginia, and New York, who are seeking alternatives for
+  maintaining their health.
+inLanguage: null
+inNav: false
+starred: false
 url: carlisle-bowenwork/index.html
 _type: Article
 
 ---
 # New Ideas in Wellness and Education
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b972f896-d426-47f7-b07f-0a70ffd2b628.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2383bc96c135bc842ceb68f91bff53ca/croprotate.jpg?cropheight=1455&cropwidth=3104&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2df91857-8122-4a53-9dbd-873a3dad9235.jpg&x=0&y=0)
 
-**Carlisle Bowenwork is truly unique, and a destination for
-people from as far as Maryland, West Virginia, and New York, who are seeking
-alternatives for maintaining their health.**
+**Carlisle Bowenwork is truly unique, and a destination for people from as far as Maryland, West Virginia, and New York, who are seeking alternatives for maintaining their health.**
