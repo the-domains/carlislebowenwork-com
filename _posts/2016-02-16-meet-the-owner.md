@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T14:57:47.097Z'
+datePublished: '2016-08-22T15:00:12.320Z'
 sourcePath: _posts/2016-02-16-meet-the-owner.md
 inFeed: false
 authors: []
@@ -7,13 +7,16 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T14:57:46.659Z'
+dateModified: '2016-08-22T15:00:11.968Z'
 title: Meet the Owner
 publisher: {}
 description: >-
-  My name is Nancy Bittinger. I have been passionate about the world of
-  Alternative Health since 1993, when I first entered massage school. My
-  learning has never stopped since then.
+  When I took my first Bowenwork Class in 2011, I knew that I had found
+  something that was going to change my life and the life of the people I work
+  with. Bowenwork has helped my clients in ways that I never could have
+  imagined. I opened Carlisle Bowenwork in 2012. For me, it’s been a huge
+  learning curve to run a large Wellness Center, and bring new therapies to
+  Central PA, but now, I can’t imagine having any other profession.
 inLanguage: null
 inNav: true
 starred: false
@@ -25,7 +28,7 @@ _type: WebPage
 
 # Meet the Owner
 
-My name is Nancy Bittinger. I have been passionate about the world of Alternative Health since 1993, when I first entered massage school. My learning has never stopped since then.
+## My name is Nancy Bittinger. I have been passionate about the world of Alternative Health since 1993, when I first entered massage school. My learning has never stopped since then.
 
 When I took my first Bowenwork Class in 2011, I knew that I had found something that was going to change my life and the life of the people I work with. Bowenwork has helped my clients in ways that I never could have imagined. I opened Carlisle Bowenwork in 2012\. For me, it's been a huge learning curve to run a large Wellness Center, and bring new therapies to Central PA, but now, I can't imagine having any other profession.
 
